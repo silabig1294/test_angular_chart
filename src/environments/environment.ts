@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  // apiUrl : 'https://jsonplaceholder.typicode.com'
+  apiUrl: 'http://127.0.0.1:8000' //https://39c4-203-150-21-70.ngrok.io http://127.0.0.1:8000
 };
 
 /*
